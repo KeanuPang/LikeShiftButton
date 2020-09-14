@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Willow",
+        "repositoryURL": "https://github.com/Nike-Inc/Willow",
+        "state": {
+          "branch": null,
+          "revision": "816ff0129ca61cae3d00ca82dadce7f759d29ce9",
+          "version": "6.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
